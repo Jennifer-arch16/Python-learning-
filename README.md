@@ -12,3 +12,5 @@ variables
 strings and print statements
  
 basic input/output
+
+some common strings method
